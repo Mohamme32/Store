@@ -1,0 +1,42 @@
+[
+    {
+        "ProduktName": "Waschmaschine",
+        "Preis": 400
+    },
+    {
+        "ProduktName": "Kühlschrank",
+        "Preis": 500
+    },
+    {
+        "ProduktName": "Mikrowelle",
+        "Preis": 150
+    },
+    {
+        "ProduktName": "Staubsauger",
+        "Preis": 120
+    },
+    {
+        "ProduktName": "Fernseher",
+        "Preis": 800
+    },
+    {
+        "ProduktName": "Laptop",
+        "Preis": 900
+    },
+    {
+        "ProduktName": "Mixer",
+        "Preis": 70
+    },
+    {
+        "ProduktName": "Kaffeemaschine",
+        "Preis": 130
+    },
+    {
+        "ProduktName": "Toaster",
+        "Preis": 30
+    },
+    {
+        "ProduktName": "Haartrockner",
+        "Preis": 45
+    }
+]
